@@ -1,0 +1,26 @@
+E-Commerce Company Policy Handbook (Amazon-Style) – v1.0
+
+1) Work Hours & Leave
+- Standard hours: 10:00–19:00 local time, Mon–Fri.
+- Leave: 18 annual, 12 sick; WFH subject to manager approval.
+
+2) Data Security
+- Use company email for all official communication.
+- Store confidential documents only in approved drives with MFA.
+- Report suspected breaches to security@example.com within 1 hour.
+
+3) Customer Data Handling
+- Access customer PII strictly on a need-to-know basis.
+- Do not export PII to personal devices or third-party tools without DPA.
+
+4) Refunds & Credits (Ops Reference)
+- Refund window: 7 days for unopened/unused items per category policy.
+- Service failures (late delivery, damaged item) → issue partial/full credit within 24h of verification.
+
+5) Code of Conduct
+- Zero tolerance for harassment or discrimination.
+- Report incidents to hr@example.com.
+
+6) Vendor & Logistics
+- Approved carriers must meet on-time delivery ≥ 95% monthly.
+- Temperature-controlled items must maintain 2–8°C during transit and handoff.

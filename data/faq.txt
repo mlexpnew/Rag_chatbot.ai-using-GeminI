@@ -1,0 +1,22 @@
+# Customer FAQ (Amazon-Style) – v1.0
+
+Q: What are your delivery hours?
+A: 7:00 AM – 9:00 PM, Monday–Saturday. No deliveries on national holidays.
+
+Q: What is your return/refund policy?
+A: Eligible items can be returned within 7 days of delivery if unopened/unused. Damaged or incorrect items qualify for a full refund or replacement.
+
+Q: Do you support Cash on Delivery (COD)?
+A: Yes, for orders under ₹1500 (or local equivalent). High-value items and subscriptions require prepaid.
+
+Q: How do I track my order?
+A: Go to Orders > Select Order > “Track package” to view live status and ETA.
+
+Q: Can I pause or skip a subscription delivery?
+A: Yes. Go to Subscriptions > Manage > Pause/Skip. Changes apply to the next cycle (cutoff: 6 PM the day before).
+
+Q: How do replacements work?
+A: For damaged/incorrect items, choose “Replace item” in the return flow; a courier will pick up the original during replacement delivery.
+
+Q: How do I contact support?
+A: Use in-app chat (9 AM–6 PM local time) or email support@example.com. Phone: +91-80-0000-0000.

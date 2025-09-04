@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# Local vector DB
+chroma_db/
+
+# OS/editor
+.DS_Store
+.vscode/
+
+# Secrets
+.env
